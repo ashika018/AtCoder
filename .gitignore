@@ -1,1 +1,3 @@
 python/venv_alg/
+.vscode/
+*.out
